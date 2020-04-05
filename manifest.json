@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Zach's awesome mod made by Zach and his dad",
+        "name": "Zach's Resrouce Pack",
+        "uuid": "254a6a1d-4240-4233-8b95-f1da36ff1b44",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Tutorial Resource Pack",
+            "type": "resources",
+            "uuid": "034d4118-fc58-4a91-be2c-3f849d1d66bd",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
